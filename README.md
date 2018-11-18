@@ -1,5 +1,10 @@
 # Accessibility-Text-Spacing-Tool
-A simple Google Chrome plugin that sets the line spacing to exactly 1.5 times the font size to all text elements within a page. Used for testing against WCAG accessibility standard 1.4.12.
+A simple Google Chrome plugin that adjusts text spacing to all elements within a page in compliance with the WCAG accessibility standard 1.4.12:
+
+Line height (line spacing) to at least 1.5 times the font size;
+Spacing following paragraphs to at least 2 times the font size;
+Letter spacing (tracking) to at least 0.12 times the font size;
+Word spacing to at least 0.16 times the font size.
 
 Installation:
 
@@ -12,10 +17,10 @@ Usage:
 
 Example: 
 
-No additonal line spacing added - 
+No additonal text spacing added - 
 
 ![No spacing additional spacing added](https://image.ibb.co/jzY3Zf/No-Line-Spacing.png)
 
-With additional line spacing added - 
+With additional text spacing added - 
 
 ![Additional spacing added](https://image.ibb.co/knORn0/With-Line-Spacing.png)
