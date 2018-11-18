@@ -3,7 +3,7 @@
   "name": "Accessibility Line Spacing Tool",
   "version": "1.0",
   "manifest_version" : 2,
-  "description": "Adds linespacing equal to 1.5x the font size to all text elements within a page. Used for testing against WCAG accessibility standard 1.4.12.",
+  "description": "A simple Google Chrome plugin that adjusts text spacing to all elements within a page in compliance with the WCAG accessibility standard 1.4.12:",
   "background" : {
     "scripts" : ["background.js"]
   },
